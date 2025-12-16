@@ -37,7 +37,7 @@ export function Hero() {
           className="w-full h-full object-cover opacity-100"
         >
           <source
-            src="./Loop Video.mp4"
+            src="/public/Loop Video.mp4"
             type="video/mp4"
           />
         </video>

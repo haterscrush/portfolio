@@ -429,8 +429,8 @@ function getCaseStudyData(id: string) {
         'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop',
       ],
       wireframes: [
-        '/Gallery/autorent/wireFrame_01.jpg',
-        '/Gallery/autorent/wireFrame_02.jpg',
+        'public/Gallery/autorent/wireFrame_01.jpg',
+        'public/Gallery/autorent/wireFrame_02.jpg',
       ],
       finalDesigns: [
         '/Gallery/autorent/High-Fidelity Design.jpg',
@@ -634,14 +634,14 @@ function getCaseStudyData(id: string) {
     'health-wellness-app': {
       title: 'Receipt Generators',
       category: 'Website application ',
-      year: '2024',
+      year: '2025',
       showWireframes: false,
       showComparison: false,
       description: 'A Receipt Generator is a simple, device-friendly tool designed for salespeople to quickly create, print, or share receipts directly from their mobile phone, tablet, or laptop. It enables fast entry of customer and product details, automatically calculates totals and taxes, and generates a clean, professional receipt that can be printed instantly or shared as PDF/WhatsApp/email, reducing paperwork and saving time in day-to-day sales operations.',
       role: 'UI/UX Designer',
       timeline: '4 months',
       team: '1 Designer, 3 Engineers',
-      heroImage: '/Gallery/Receipt Generator/Thumbnail.jpg',
+      heroImage: '/public/Gallery/receipt Generator/Thumbnail.jpg',
       overview: [
         'Salespeople can generate and print receipts instantly, reducing customer wait time and improving checkout efficiency.',
         'Automatic calculations for totals, taxes, and discounts minimize human errors compared to handwritten receipts.',
@@ -679,8 +679,8 @@ function getCaseStudyData(id: string) {
         'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=600&fit=crop',
       ],
       finalDesigns: [
-        '/Gallery/Receipt Generator/final_01.jpg',
-        '/Gallery/Receipt Generator/final_02.jpg',
+        '/public/Gallery/receipt Generator/final_01.jpg',
+        '/public/Gallery/receipt Generator/final_02.jpg',
       ],
       beforeAfter: [
         'https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop',

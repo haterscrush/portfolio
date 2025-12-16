@@ -27,7 +27,7 @@ export function Work({ onViewCaseStudy }: WorkProps) {
       category: 'Web Application',
       year: '2024',
       description: 'Enterprise analytics platform helping teams make data-driven decisions with clarity and confidence.',
-      image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=800&fit=crop',
+      image: '/Gallery/BIGH/thumbnail.jpg',
       tags: ['Dashboard Design', 'Data Visualization', 'B2B SaaS'],
     },
     {
@@ -45,7 +45,7 @@ export function Work({ onViewCaseStudy }: WorkProps) {
       category: 'Mobile App Design',
       year: '2025',
       description: 'A Receipt Generator is a simple, device-friendly tool designed for salespeople to quickly create, print, or share receipts directly from their mobile phone, tablet, or laptop. It enables fast entry of customer and product details, automatically calculates totals and taxes, and generates a clean, professional receipt that can be printed instantly or shared as PDF/WhatsApp/email, reducing paperwork and saving time in day-to-day sales operations.',
-      image: '/Gallery/Receipt Generator/Thumbnail.jpg',
+      image: '/public/Gallery/receipt Generator/Thumbnail.jpg',
       tags: ['Sales', 'AI/ML', 'Industrial Business'],
     },
   ];
