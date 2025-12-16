@@ -45,7 +45,7 @@ export function Work({ onViewCaseStudy }: WorkProps) {
       category: 'Mobile App Design',
       year: '2025',
       description: 'A Receipt Generator is a simple, device-friendly tool designed for salespeople to quickly create, print, or share receipts directly from their mobile phone, tablet, or laptop. It enables fast entry of customer and product details, automatically calculates totals and taxes, and generates a clean, professional receipt that can be printed instantly or shared as PDF/WhatsApp/email, reducing paperwork and saving time in day-to-day sales operations.',
-      image: '/public/Gallery/receipt Generator/Thumbnail.jpg',
+      image: '/Gallery/receipt Generator/Thumbnail.jpg',
       tags: ['Sales', 'AI/ML', 'Industrial Business'],
     },
   ];

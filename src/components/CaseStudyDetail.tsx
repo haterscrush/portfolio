@@ -641,7 +641,7 @@ function getCaseStudyData(id: string) {
       role: 'UI/UX Designer',
       timeline: '4 months',
       team: '1 Designer, 3 Engineers',
-      heroImage: '/public/Gallery/receipt Generator/Thumbnail.jpg',
+      heroImage: '/Gallery/receipt Generator/Thumbnail.jpg',
       overview: [
         'Salespeople can generate and print receipts instantly, reducing customer wait time and improving checkout efficiency.',
         'Automatic calculations for totals, taxes, and discounts minimize human errors compared to handwritten receipts.',
@@ -679,8 +679,8 @@ function getCaseStudyData(id: string) {
         'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=600&fit=crop',
       ],
       finalDesigns: [
-        'public/Gallery/receipt Generator/final_01.jpg',
-        'public/Gallery/receipt Generator/final_02.jpg',
+        '/Gallery/receipt Generator/final_01.jpg',
+        '/Gallery/receipt Generator/final_02.jpg',
       ],
       beforeAfter: [
         'https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop',
