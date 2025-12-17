@@ -360,7 +360,8 @@ export function CaseStudyDetail({ caseStudyId, onBack }: CaseStudyDetailProps) {
                 whileTap={{ scale: 0.95 }}
                 className="inline-flex items-center gap-3 px-8 py-4 bg-white text-black hover:bg-[#B3B3B3] transition-all duration-300"
               >
-                <span>Visit Live Website</span>
+                <span>Visit Live Website</span><br />
+
                 <ExternalLink size={20} />
               </motion.a>
             </motion.div>

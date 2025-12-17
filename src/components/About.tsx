@@ -67,9 +67,10 @@ export function About() {
 
             <div className="space-y-6 mb-12">
               {[
-                "I'm Siddhartha, a Senior UI/UX Designer with 6+ years of experience crafting design that users love and businesses value.",
-                "My approach combines analytical thinking with creative problem-solving. I don't just make things look good—I make them work better.",
-                "From early-stage startups to enterprise products, I've helped teams ship user-centered designs that drive engagement, retention, and growth.",
+                "I’m Siddhartha, a Senior UI/UX Designer with over 6 years of experience crafting meaningful digital experiences that balance user needs with business goals.",
+                "My work spans UI/UX design, visual design, and motion, allowing me to approach problems holistically—from strategy and research to high-fidelity execution. I believe great design is not just about aesthetics, but about clarity, usability, and impact.",
+                "I specialize in designing clean, intuitive, and scalable interfaces for web and mobile products. With a strong foundation in user psychology and product thinking, I focus on creating experiences that are easy to use, engaging to interact with, and effective in driving results.",
+                 "Whether working with startups or established businesses, my goal remains the same: to turn complex problems into simple, elegant solutions that users enjoy and businesses trust.",
               ].map((text, index) => (
                 <motion.p
                   key={index}
