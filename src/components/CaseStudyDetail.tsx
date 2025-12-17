@@ -391,7 +391,7 @@ function getCaseStudyData(id: string) {
       year: '2025',
       showWireframes: true,
       showComparison: true,
-      description: 'Reimagining digital banking with a focus on financial wellness and intuitive money management.',
+      description: 'The earlier version primarily emphasized informational content, regional details,and service explanations, which required users to scan multiple sections before taking action. Navigation and booking felt secondary to content consumption.The updated website adopts a cleaner, more contemporary interface with a strong focus on usability and speed. It prioritizes vehicle discovery and booking through a streamlined layout, clear CTAs, and an intuitive rental flow. Visual hierarchy, spacing, and interaction design have been improved to guide users effortlessly from landing to reservation.',
       role: 'UI/UX Designer',
       timeline: '4 months',
       team: '1 Designer, 3 Engineers',
@@ -455,6 +455,8 @@ function getCaseStudyData(id: string) {
         },
       ],
       liveUrl: 'https://autorent-me.com/',
+      mobileliveUrl: 'https://apps.apple.com/in/app/autorent-car-rental/id6451241886',
+      
       results: [
         { value: '+43%', metric: 'User Retention' },
         { value: '4.8★', metric: 'App Store Rating' },
@@ -473,7 +475,7 @@ function getCaseStudyData(id: string) {
       year: '2025',
       showWireframes: true,
       showComparison: true,
-      description: 'BIGH (Bahwan International Group Holding) is a UAE-based diversified business group operating across the GCC and international markets. The company focuses on multiple sectors including automotive, car rental and leasing, equipment and power solutions, trading, consumer goods, food, and strategic partnerships, with a strong emphasis on sustainable growth, operational excellence, and long-term value creation.',
+      description: 'The BIGH website presents Bahwan International Group Holding, a multinational business group with diversified operations. The homepage highlights the company’s presence across sectors such as automotive sales and rentals, equipment and consumer goods, food, trading, and rental services in markets including Oman, United Arab Emirates, Saudi Arabia, and beyond. The site provides an overview of the group’s business ventures, partnerships, and contact information. It serves as a corporate portal with links to corporate information (About Us, Our Business, Media & Events, Careers) and emphasizes the group’s multi-sector footprint and international reach.',
       role: 'UI/UX Designer',
       timeline: '2 months',
       team: '1 Designers, 2 Engineers',
@@ -555,9 +557,9 @@ function getCaseStudyData(id: string) {
       year: '2024',
       showWireframes: true,
       showComparison: true,
-      description: 'Complete redesign of a fashion marketplace, increasing conversion rate by 43% through improved UX.',
+      description: 'The VinFast Oman website is the regional portal for the Vietnamese electric vehicle brand’s presence in the Sultanate of Oman. It showcases VinFast’s lineup of electric cars, including current models and upcoming releases, and promotes the company’s vision of sustainable, technology-driven mobility.',
       role: 'Lead Designer',
-      timeline: '2 months',
+      timeline: '1 months',
       team: '1 Designers, 4 Engineers',
       heroImage: '/Gallery/Vinfast/Thumbnail_01.jpg',
       overview: [
@@ -639,7 +641,7 @@ function getCaseStudyData(id: string) {
       showComparison: false,
       description: 'A Receipt Generator is a simple, device-friendly tool designed for salespeople to quickly create, print, or share receipts directly from their mobile phone, tablet, or laptop. It enables fast entry of customer and product details, automatically calculates totals and taxes, and generates a clean, professional receipt that can be printed instantly or shared as PDF/WhatsApp/email, reducing paperwork and saving time in day-to-day sales operations.',
       role: 'UI/UX Designer',
-      timeline: '4 months',
+      timeline: '2 months',
       team: '1 Designer, 3 Engineers',
       heroImage: '/Gallery/receipt Generator/Thumbnail.jpg',
       overview: [
