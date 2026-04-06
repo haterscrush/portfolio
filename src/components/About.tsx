@@ -67,10 +67,10 @@ export function About() {
 
             <div className="space-y-6 mb-12">
               {[
-                "I’m Siddhartha, a UI/UX Designer with over 6 years of experience crafting meaningful digital experiences that balance user needs with business goals.",
-                "My work spans UI/UX design, visual design, and motion, allowing me to approach problems holistically—from strategy and research to high-fidelity execution. I believe great design is not just about aesthetics, but about clarity, usability, and impact.",
-                "I specialize in designing clean, intuitive, and scalable interfaces for web and mobile products. With a strong foundation in user psychology and product thinking, I focus on creating experiences that are easy to use, engaging to interact with, and effective in driving results.",
-                 "Whether working with startups or established businesses, my goal remains the same: to turn complex problems into simple, elegant solutions that users enjoy and businesses trust.",
+                "I’m Siddhartha, a UI/UX Designer with 5+ years of experience creating impactful digital products that align user needs with business objectives.",
+                "My expertise spans UI/UX design, visual design, and motion, enabling me to approach challenges end-to-end from research and strategy to high-fidelity execution. I focus on delivering clarity, usability, and measurable impact rather than just visual appeal.",
+                "I specialize in crafting clean, intuitive, and scalable interfaces for web and mobile platforms. With a strong understanding of user psychology and product thinking, I design experiences that are easy to use, engaging, and results-driven.",
+                 "Whether collaborating with startups or established organizations, I aim to simplify complex problems into elegant, user-centered solutions that drive trust and business success.",
               ].map((text, index) => (
                 <motion.p
                   key={index}

@@ -48,18 +48,6 @@ export function Experience() {
         'Worked on many motion graphic videos',
       ],
     },
-    {
-      company: 'Annapurna Studios',
-      role: 'Motion Graphic Intern',
-      period: '2019 - 2020',
-      location: 'Hyderabad, telangana',
-      description: 'Started journey as a Graphic Designer and motion Graphic designer',
-      achievements: [
-        'Worked on 5+ movies',
-        'Created visual assets and illustrations',
-        'Participated in design critiques',
-      ],
-    },
   ];
 
   return (
